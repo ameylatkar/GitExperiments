@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 This is text 2 file
-This is new line added after rebase in text 2
-hello new change in repo
-=======
-This is text 2 file
->>>>>>> parent of 95c7dc6 (New sentence added in text2 file)
