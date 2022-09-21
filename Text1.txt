@@ -2,3 +2,4 @@ I am the text 1 file
 This line is added for git diff command 
 This line added to check results in dev_branch
 This is new line added after rebase
+Adding a new line for reset demo
