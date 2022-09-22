@@ -1,0 +1,5 @@
+[submodule "Angular_project"]
+	path = Angular_project
+	url = https://github.com/ameylatkar/Angular_project.git
+	branch = branch_1
+	recurse = true
