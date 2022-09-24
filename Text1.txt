@@ -5,3 +5,4 @@ This is new line added after rebase
 Adding a new line for reset demo
 FeatureA branch change
 have a change in text1
+Having a stashed changed
