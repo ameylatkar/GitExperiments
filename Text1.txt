@@ -8,3 +8,4 @@ have a change in text1
 Having a stashed changed
 New change for Squash merge
 One more change in Text1.txt
+Change form master branch
