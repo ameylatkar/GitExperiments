@@ -4,3 +4,4 @@ This is new line added after rebase in text 2
 hello new change in repo
 have a change in text2
 New text change in text2
+One change form FeatureA branch
