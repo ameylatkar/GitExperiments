@@ -6,3 +6,4 @@ have a change in text2
 New text change in text2
 One change form FeatureA branch
 change for fast forword merge
+Additional statement
